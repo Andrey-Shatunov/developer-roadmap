@@ -4,9 +4,9 @@
 а) описанным требованиям
 б) ожиданиям и потребностям пользователей
 
-## What is Assurance
+## Что такое гарантия
 
-Assurance is nothing but a positive declaration of a product or service, which gives confidence. It is certain of a product or a service which it will work well. It provides a guarantee that the product will work without any problems as per the expectations or requirements.
+Гарантия — это не что иное, как положительное заявление о продукте или услуге, которое дает уверенность. Это определенный продукт или услуга, которая будет работать хорошо. Это дает гарантию того, что продукт будет работать без каких-либо проблем в соответствии с ожиданиями или требованиями.
 
 ## Обеспечение качества в тестировании
 
